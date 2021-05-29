@@ -1,5 +1,5 @@
 # Port-Sniffer
--- Requirement
+-- Gereksinimler
 
  Pcap.Net için ; https://github.com/PcapDotNet/Pcap.Net/wiki üzerinden inceleyerek projeyi çalıştırabilmek için ilgili kütüphaneleri ve gereksinimleri kurmanız gerek.
  
