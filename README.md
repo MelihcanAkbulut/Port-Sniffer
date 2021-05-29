@@ -10,4 +10,4 @@
  
  AgProgramlama arayüzünden Paket Yakalamayı Başlat ile direkt olarak process oluşturarak konsol uygulamamızı çalıştırıyoruz.
  
-![portSnif](https://user-images.githubusercontent.com/70907491/120082976-94f7dd00-c0ce-11eb-8a69-fb8de2a1aa05.PNG)
+![PortSniff](https://user-images.githubusercontent.com/70907491/120083639-b35fd780-c0d2-11eb-82c0-e18ed77f692b.PNG)
